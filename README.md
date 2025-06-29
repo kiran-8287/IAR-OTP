@@ -2,7 +2,19 @@
 
  ## 🌐 Live Demo
 * [IAR-Sign In Page Demo](https://kiran-8287.github.io/IAR-OTP/)
+---
+## 🔑 Steps to Receive Your OTP
 
+1. **Enter your email address** 📧  
+   - Type your email in the provided field.
+
+2. **Check for the OTP in the Console** 🖥️  
+   - Press **F12** on your keyboard to open the browser’s Developer Console.
+   - Look for the OTP (One-Time Password) displayed in the console.
+
+3. **Copy and Paste the OTP** 📋  
+   - Copy the OTP from the console.
+   - Paste it into the **“Enter OTP”** section to continue.
 
 ---
 
