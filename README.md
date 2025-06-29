@@ -52,8 +52,9 @@
 - 🛡 Add input validation for proper email formatting & OTP length
 - 🔄 Display loading spinner/real-time feedback when “Send OTP” is clicked
 
-![Screenshot 2025-06-29 180003](https://github.com/user-attachments/assets/ab3dcb73-59c8-4312-8a31-10873e2cf6d9)
----
-![image](https://github.com/user-attachments/assets/9caed2d1-e9b0-41b4-9a92-6d6ce8008f4a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ab3dcb73-59c8-4312-8a31-10873e2cf6d9" alt="Screenshot 2025-06-29 180003" width="45%" />
+  <img src="https://github.com/user-attachments/assets/9caed2d1-e9b0-41b4-9a92-6d6ce8008f4a" alt="image" width="45%" />
+</p>
 
 
